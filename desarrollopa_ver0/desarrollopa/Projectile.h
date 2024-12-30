@@ -14,7 +14,7 @@ private:
     float speed;
 
 public:
-    Projectile(Vector3D position, float radius = 0.05f) : speed(0.001f) // Ajusta la velocidad según sea necesario
+    Projectile(Vector3D position, float radius = 0.05f) : speed(0.1f) // Ajusta la velocidad según sea necesario
     {
         SetPosition(position);
         SetRadius(radius); // Establece el tamaño de la esfera
