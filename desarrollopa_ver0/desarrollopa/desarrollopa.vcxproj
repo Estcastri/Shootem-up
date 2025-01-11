@@ -135,7 +135,9 @@
     <ClCompile Include="Cylinder.cpp" />
     <ClCompile Include="desarrollopa.cpp" />
     <ClCompile Include="Display.cpp" />
+    <ClCompile Include="Enemy.cpp" />
     <ClCompile Include="Game.cpp" />
+    <ClCompile Include="HorizontalEnemy.cpp" />
     <ClCompile Include="Nave.cpp" />
     <ClCompile Include="Projectile.cpp" />
     <ClCompile Include="Scene.cpp" />
@@ -152,7 +154,9 @@
     <ClInclude Include="Cuboid.h" />
     <ClInclude Include="Cylinder.h" />
     <ClInclude Include="Display.h" />
+    <ClInclude Include="Enemy.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="HorizontalEnemy.h" />
     <ClInclude Include="Nave.h" />
     <ClInclude Include="Projectile.h" />
     <ClInclude Include="Scene.h" />

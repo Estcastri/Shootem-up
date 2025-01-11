@@ -1,5 +1,6 @@
 #include "Game.h"
 #include <iostream>
+#include "HorizontalEnemy.h"
 
 void Game::Init()
 {
@@ -9,6 +10,11 @@ void Game::Init()
     nave1->SetPosition(Vector3D(0.0, 0.0, -3.0));
     nave1->SetColor(Color(0.8f, 0.7f, 0.6f, 0.4f));
     this->mainScene.AddGameObject(nave1);
+
+    HorizontalEnemy* enemigo = new HorizontalEnemy();
+    enemigo->SetPosition(Vector3D(1.0, 1.0, -3.0));
+    enemigo->SetColor(Color(0.5f, 0.6f, 0.9f, 0.4f));
+    this->mainScene.AddGameObject(enemigo);
 }
 
 void Game::Render()
