@@ -47,4 +47,39 @@ C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder
 C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,59): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-  desarrollopa.vcxproj -> C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\x64\Debug\desarrollopa.exe
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Game.cpp(24,21): error C2040: 'enemy: 'HorizontalEnemy' se diferencia en los niveles de direccionamiento indirecto de 'HorizontalEnemy *'
+  HorizontalEnemy.cpp
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "HorizontalEnemy.cpp")
+  
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,5): error C2059: error de sintaxis: 'for'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,19): error C2143: error de sintaxis: falta ')' delante de ';'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,23): error C2143: error de sintaxis: falta ';' delante de '<'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,23): error C2059: error de sintaxis: '<'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,29): error C2059: error de sintaxis: '++'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,32): error C2059: error de sintaxis: ')'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(7,5): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(7,5): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+  Generando código...

@@ -12,9 +12,18 @@ void Game::Init()
     this->mainScene.AddGameObject(nave1);
 
     HorizontalEnemy* enemigo = new HorizontalEnemy();
-    enemigo->SetPosition(Vector3D(1.0, 1.0, -3.0));
+    enemigo->SetPosition(Vector3D(0.0, 0.0, -3.0));
     enemigo->SetColor(Color(0.5f, 0.6f, 0.9f, 0.4f));
     this->mainScene.AddGameObject(enemigo);
+
+    //Vector3D puntoA(0.0f, 0.0f, 0.0f);
+    //Vector3D puntoB(10.0f, 0.0f, 0.0f);
+
+    //HorizontalEnemy* enemy = new HorizontalEnemy();
+    //HorizontalEnemy enemy(puntoA, puntoB, 0.5f);
+    //enemy->SetPosition(Vector3D(0.0, 0.0, -3.0));
+    //enemy->SetColor(Color(0.5f, 0.6f, 0.9f, 0.4f));
+    //this->mainScene.AddGameObject(enemy);
 }
 
 void Game::Render()

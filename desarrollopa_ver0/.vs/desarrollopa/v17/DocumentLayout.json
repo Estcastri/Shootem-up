@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\HorizontalEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\HorizontalEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C7AF99-0BFC-46F8-A284-53D0BE3B020E}|desarrollopa\\desarrollopa.vcxproj|solutionrelative:desarrollopa\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,33 +42,46 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.h",
+              "RelativeDocumentMoniker": "desarrollopa\\Game.h",
+              "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.h",
+              "RelativeToolTip": "desarrollopa\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T15:16:34.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Enemy.h",
               "RelativeDocumentMoniker": "desarrollopa\\Enemy.h",
               "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Enemy.h",
               "RelativeToolTip": "desarrollopa\\Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-11T15:14:20.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Game.cpp",
               "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Game.cpp",
               "RelativeToolTip": "desarrollopa\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T16:28:10.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Sphere.cpp",
               "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Sphere.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Sphere.cpp",
@@ -76,33 +89,19 @@
               "RelativeToolTip": "desarrollopa\\Sphere.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T16:28:01.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:28:01.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HorizontalEnemy.h",
               "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.h",
               "RelativeDocumentMoniker": "desarrollopa\\HorizontalEnemy.h",
               "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.h",
               "RelativeToolTip": "desarrollopa\\HorizontalEnemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-11T16:25:59.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HorizontalEnemy.cpp",
-              "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.cpp",
-              "RelativeDocumentMoniker": "desarrollopa\\HorizontalEnemy.cpp",
-              "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\HorizontalEnemy.cpp",
-              "RelativeToolTip": "desarrollopa\\HorizontalEnemy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T16:26:36.048Z",
               "EditorCaption": ""
             },
             {
@@ -113,20 +112,20 @@
               "RelativeDocumentMoniker": "desarrollopa\\Vector3D.h",
               "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.h",
               "RelativeToolTip": "desarrollopa\\Vector3D.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-11T16:18:12.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Vector3D.cpp",
               "DocumentMoniker": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.cpp",
               "RelativeDocumentMoniker": "desarrollopa\\Vector3D.cpp",
               "ToolTip": "C:\\Users\\Pc1\\Documents\\GitHub\\Shootem-up\\desarrollopa_ver0\\desarrollopa\\Vector3D.cpp",
               "RelativeToolTip": "desarrollopa\\Vector3D.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T15:22:57.777Z",
               "EditorCaption": ""
