@@ -27,6 +27,7 @@ public:
 	inline void SetZ(const float& zToSet) { this->z = zToSet; }
 
 	Vector3D Add(Vector3D& other);
+	Vector3D operator-(const Vector3D& other) const;
 	Vector3D operator+(Vector3D& other);
 
 	Vector3D Product(float a);
