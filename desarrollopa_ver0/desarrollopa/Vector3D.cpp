@@ -20,6 +20,9 @@ Vector3D Vector3D::Product(float a)
 		this->GetY() * a,
 		this->GetZ() * a);
 }
+Vector3D Vector3D::operator-(const Vector3D& other) const {
+	return Vector3D(this->x - other.x, this->y - other.y, this->z - other.z);
+}
 
 Vector3D Vector3D::operator*(float a)
 {

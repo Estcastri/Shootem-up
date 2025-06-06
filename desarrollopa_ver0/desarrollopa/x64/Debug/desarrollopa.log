@@ -1,85 +1,501 @@
-﻿  Game.cpp
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+﻿  Camera.cpp
+  Cube.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cube.cpp")
+  
+  Cuboid.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cuboid.cpp")
+  
+  Cylinder.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,59): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Cylinder.cpp")
+  
+  desarrollopa.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,59): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "desarrollopa.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\desarrollopa.cpp(16,22): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\desarrollopa.cpp(17,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\desarrollopa.cpp(18,23): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Display.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Display.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(22,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(25,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(26,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(27,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(28,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(34,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(37,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(45,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(46,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(50,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(53,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(54,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(60,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(63,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(70,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(81,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(82,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(83,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(84,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(99,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(100,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Display.cpp(111,144): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Game.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cuboid.h(15,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,59): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Cylinder.h(14,59): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
   (compilando archivo de origen "Game.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Game.cpp(24,21): error C2040: 'enemy: 'HorizontalEnemy' se diferencia en los niveles de direccionamiento indirecto de 'HorizontalEnemy *'
-  HorizontalEnemy.cpp
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+  Model.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Model.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-  (compilando archivo de origen "HorizontalEnemy.cpp")
+  ModelLoader.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
   
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,5): error C2059: error de sintaxis: 'for'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,19): error C2143: error de sintaxis: falta ')' delante de ';'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,23): error C2143: error de sintaxis: falta ';' delante de '<'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,23): error C2059: error de sintaxis: '<'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,29): error C2059: error de sintaxis: '++'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(6,32): error C2059: error de sintaxis: ')'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(7,5): error C2143: error de sintaxis: falta ';' delante de '{'
-C:\Users\Pc1\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\HorizontalEnemy.cpp(7,5): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "ModelLoader.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\ModelLoader.cpp(93,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\ModelLoader.cpp(92,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\ModelLoader.cpp(91,14): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Nave.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Nave.cpp")
+  
+  Projectile.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Projectile.cpp")
+  
+  Scene.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Scene.cpp")
+  
+  Solid.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Solid.cpp")
+  
+  Sphere.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Sphere.h(15,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Sphere.cpp")
+  
+  Teapot.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Teapot.h(12,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Teapot.cpp")
+  
+  Torus.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Torus.h(14,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Torus.cpp")
+  
+  Triangle.cpp
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,15): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(11,38): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Color.h(12,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\desarrollopa\Solid.h(17,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Triangle.cpp")
+  
+  Vector3D.cpp
   Generando código...
+  desarrollopa.vcxproj -> C:\Users\moni_\Documents\GitHub\Shootem-up\desarrollopa_ver0\x64\Debug\desarrollopa.exe
